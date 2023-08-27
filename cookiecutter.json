@@ -3,6 +3,7 @@
     "repo_name": "{{ cookiecutter.project_name|lower|replace(' ', '') }}",
     "package_name": "{{ cookiecutter.project_name|lower|replace(' ', '')|replace('-', '') }}",
     "description": "A short description of the project.",
+    "version": "1.0.0",
     "_copy_without_render": [
         "gradlew",
         "gradlew.bat",
