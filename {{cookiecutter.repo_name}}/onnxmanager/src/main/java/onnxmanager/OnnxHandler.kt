@@ -1,4 +1,4 @@
-package onnxmanager
+package {{ cookiecutter.package_name }}.onnxmanager
 
 object OnnxHandler {
     fun retrieveOnnxInfo() : String{
