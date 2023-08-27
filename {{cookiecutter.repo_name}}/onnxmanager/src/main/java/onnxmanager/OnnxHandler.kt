@@ -1,4 +1,4 @@
-package com.example.onnxmanager
+package onnxmanager
 
 object OnnxHandler {
     fun retrieveOnnxInfo() : String{

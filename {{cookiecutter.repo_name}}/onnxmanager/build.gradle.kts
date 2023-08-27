@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.onnxmanager"
+    namespace = "{{cookiecutter.repo_name}}.onnxmanager"
     compileSdk = 33
 
     defaultConfig {

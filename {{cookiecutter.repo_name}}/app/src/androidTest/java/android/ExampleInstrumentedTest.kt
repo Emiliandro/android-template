@@ -1,4 +1,4 @@
-package {{ cookiecutter.package_name }}.android
+package android
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package {{ cookiecutter.package_name }}.android
+package android
 import {{ cookiecutter.package_name }}.onnxmanager.OnnxHandler
 
 class OnnxAppHandler {

@@ -1,4 +1,4 @@
-package {{ cookiecutter.package_name }}.android
+package android
 
 import org.junit.Test
 
