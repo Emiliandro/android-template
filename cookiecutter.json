@@ -1,0 +1,11 @@
+{      
+    "project_name": "Joe Doe App",
+    "repo_name": "{{ cookiecutter.project_name|lower|replace(' ', '') }}",
+    "package_name": "{{ cookiecutter.project_name|lower|replace(' ', '')|replace('-', '') }}",
+    "description": "A short description of the project.",
+    "_copy_without_render": [
+        "gradlew",
+        "gradlew.bat",
+        "gradle/wrapper/gradle-wrapper.jar"
+    ]
+}
