@@ -1,5 +1,5 @@
 package android
-import {{ cookiecutter.package_name }}.onnxmanager.OnnxHandler
+import onnxmanager.OnnxHandler
 
 class OnnxAppHandler {
      init {
