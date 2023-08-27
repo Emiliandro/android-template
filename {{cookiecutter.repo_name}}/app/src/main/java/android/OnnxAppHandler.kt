@@ -1,5 +1,5 @@
 package {{ cookiecutter.package_name }}
-import onnxmanager.OnnxHandler
+import {{ cookiecutter.package_name }}.onnxmanager.OnnxHandler
 
 class OnnxAppHandler {
      init {
